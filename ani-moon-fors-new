@@ -4,5 +4,4 @@
 
 𝘷. 1.0.0
 ]]--
-_G.discord_link_amf = "https://discord.gg/J3rKbcns"
-loadstring(game:HttpGet(('https://lcjellysreyzawexslmvsasnmnbkyahnsjunw.netlify.app/file')))()
+game.Players.LocalPlayer:Kick("Your script is outdated! Join the discard to get the script! discord.gg/SeYhFGzC")
